@@ -1,0 +1,56 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "msi",
+        "price": 134,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "samsung",
+        "price": 1514,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "dell",
+        "price": 194,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "samsung",
+        "price": 1121,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "dell",
+        "price": 1540,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "samsung",
+        "price": 2434,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "dell",
+        "price": 6154,
+        "feature": true,
+        "company": "apple"
+    },
+    {
+        "name": "msi",
+        "price": 1584,
+        "feature": true,
+        "company": "apple"
+    }
+]
